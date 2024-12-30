@@ -36,7 +36,7 @@ export const study = [
       id: 5,
       title: "Italy",
       slug: "Italy",
-      image: "/images/Flag_of_italy.svg.png",
+      image: "/images/Flag_of_Italy.svg.png",
       description: " Italy is a beautiful country with free education for International Students. Italian universities have a good reputation,",
       content: "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelos David and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italys fashion capital.",
     },
